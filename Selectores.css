@@ -1,0 +1,45 @@
+/* Todos los elementos de la página */
+/*  tamaño del texto: 20px;  tipo de letra: Arial, Helvetica, sans-serif;}*/
+* {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+}
+/* Todos los párrafos de la página */
+/*  color del texto: #555; */ 
+p {
+color: #555;
+}
+ 
+/* Todos los párrafos contenidos en #uno * ID ID ID ####/
+/*color del texto: #336699*/
+#uno p{
+    color: #336699
+}
+
+/* Todos los enlaces la página */
+/*color del texto: #CC3300; */
+a {
+    color: #CC3300;
+}
+
+/* Los elementos "em" contenidos en #uno */
+ /* fondo: #FFFFCC; espacio del borde hacia adentro: 3px;}*/
+
+ #uno em {
+    background: #FFFFCC;
+padding: 3px;
+ }
+/* Todos los elementos "em" de clase "recalcar" en toda la página */
+/* fondo: #FFCC99; borde: 1px solid #FF9900;  espacio del borde hacia adentro: 3px;} */
+em.recalcar{
+    background: #FFCC99;
+    border: 1px solid #FF9900;
+    padding: 3px; /* Espacio del borde hacia adentro */
+}
+
+/* Elementos "span" contenidos en .dos */
+/*fuente negritas: bold;*/
+.dos span{
+    font-weight: bold;  
+
+}

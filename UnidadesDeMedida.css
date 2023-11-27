@@ -1,0 +1,32 @@
+.texto {
+    font-size: 2em; 
+  }
+  
+  
+  .texto1 {
+    font-size: 7ex; 
+  }
+  
+  .texto2 {
+    font-size: 4rem; 
+  }
+  
+
+  .texto3 {
+    width: 60vw; 
+  }
+  
+  
+  .texto4 {
+    height: 50vh; 
+  }
+  
+
+  .texto5 {
+    font-size: 5vmin; 
+  }
+  
+
+  .texto6 {
+    font-size: 5vmax; 
+  }
